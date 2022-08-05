@@ -1,7 +1,0 @@
-## calculate rmsd between structures
-
-This script can be run in chimera to compare docked complexes. The complexes should have a common reference protein.
-
-Please note "referenceS" denotes refernce pdb file and "FolderwithModels" should contain your pdb files for analysis.
-
-After running the script process the log for rmsd values between structures.
