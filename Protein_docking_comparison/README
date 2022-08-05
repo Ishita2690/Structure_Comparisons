@@ -4,4 +4,6 @@ This script can be run in chimera to compare docked complexes. The complexes sho
 
 Please note "referenceS" denotes refernce pdb file and "FolderwithModels" should contain your pdb files for analysis.
 
+Update the path to refernce pdb file and folder containing docked models.
+
 After running the script process the log for rmsd values between structures.
